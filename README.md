@@ -8,7 +8,7 @@ I’m an engineer who believes any choices can become great opportunties for gro
 
 ✉️ [kunmiddle02@gmail.com](mailto:kunmiddle02@gmail.com)
 
-🔗 [Github](https://github.com/Charlie0921) | [LinkedIn](https://www.linkedin.com/in/kunjoong-kim/) | [Resume](https://drive.google.com/file/d/1YEzcMEXZLaUgCYmraqRInZKRCVFqW_ab/view?usp=sharing)
+🔗 [Github](https://github.com/Charlie0921) | [LinkedIn](https://www.linkedin.com/in/kunjoong-kim/) | [Notion](https://seasoned-sphere-ba4.notion.site/Kunjoong-Charlie-Kim-6ccc4e92aa9e409cac25142073253052?pvs=74) | [Resume](https://drive.google.com/file/d/1YEzcMEXZLaUgCYmraqRInZKRCVFqW_ab/view?usp=sharing)
 
 ### 🌱 Background 
 🎓 Junior Computer Science student at **Penn State University**  
