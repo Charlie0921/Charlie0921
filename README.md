@@ -10,7 +10,7 @@ I’m an engineer who believes any choices can become great opportunties for gro
 
 ### 🌱 Background 
 🎓 Junior Computer Science student at **Penn State University**  
-📚 Minor in **Mathematics & Cybersecurity**  
+📚 Minor in **Mathematics**  
 💻 Passionate about building applications that connect people, solve problems, and create real-world impact.  
 🌍 Bilingual: Korean (Native), English (Fluent), Mandarin (Conversational)  
 
